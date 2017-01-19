@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 #header-nav {
     border-radius: 0;
     border: 0;
@@ -20,6 +24,10 @@ h4 {
     font-family: 'Slabo 27px', serif;
     color: #951C49;
     height: 2em;
+}
+
+h5 {
+  color: lightslategray;
 }
 
 body {

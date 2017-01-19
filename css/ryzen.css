@@ -1,0 +1,35 @@
+p {
+    font-family: Arsenal;
+}
+
+p a:hover, p a:focus {
+    text-decoration: none;
+}
+
+body {
+    color: white;
+    background: black;
+}
+
+#main {
+    background-color: black;
+}
+
+#heading {
+    color: #951C49;
+}
+
+h2 {
+    font-family: Garamond, serif, sans-serif;
+    font-weight: 600;
+    color: wheat;
+}
+
+.panel-footer {
+  background-color: floralwhite;
+}
+
+.container .jumbotron {
+  box-shadow: 0 0 50px #000;
+  border: 2px solid #000;
+}
